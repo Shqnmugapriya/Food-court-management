@@ -265,18 +265,17 @@ Through this project, I gained practical experience in:
 - Integrating frontend and backend services.
 - Debugging API integration and order-management issues.
 
+
 ## Application Outcome
 
-Uploading Project_output_clean.mp4…
-
 1.Login page
-![Uploading Screenshot 2026-10-15 142359.png…]()
+<img width="1917" height="1078" alt="Screenshot 2026-10-15 142359" src="https://github.com/user-attachments/assets/5097bb05-3ba2-4bf2-9f37-9ec1b1ac29c4" />
 
 2.User dashboard 
-![Uploading Screenshot 2026-10-15 142454.png…]()
+<img width="1917" height="1078" alt="Screenshot 2026-10-15 142454" src="https://github.com/user-attachments/assets/bfe0e37f-3eaf-4a19-ba71-b1c537daf307" />
 
 3.Staff Dashboard
-![Uploading Screenshot 2026-10-15 142539.png…]()
+<img width="1917" height="1078" alt="Screenshot 2026-10-15 142511" src="https://github.com/user-attachments/assets/924bc005-13a6-40eb-a6ad-36bcbf6af997" />
 
 4.Analytics 
 <img width="1917" height="1078" alt="Screenshot 2026-10-15 142627" src="https://github.com/user-attachments/assets/5e1847e0-a44c-4ae6-8119-69641b035f88" />
